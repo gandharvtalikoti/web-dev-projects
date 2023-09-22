@@ -1,0 +1,44 @@
+body{
+    background-color: #ffce5b;
+    text-align: center;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+button{
+    margin: 10px 10px 10px 10px;
+}
+h1{
+    color: aliceblue;
+}
+
+button{
+    padding: 5px;
+}
+input{
+    padding: 5px;
+    width: 70%;
+}
+button:hover{
+    color: red;
+    background-color: aquamarine;
+    border-radius: 5px;
+}
+p{
+    font-weight: bolder;
+}
+#first{
+    color: blue;
+}
+#second{
+    color:deepskyblue;
+}
+li{
+    list-style-type: none;
+    padding: 5px;
+    color: grey;
+    cursor:crosshair;
+}
+.cross{
+    text-decoration: line-through;
+    color: red;
+}
